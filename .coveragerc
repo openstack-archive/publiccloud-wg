@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = PublicCloudWG
+
+[report]
+ignore_errors = True
