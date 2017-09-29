@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     'sphinx.ext.autodoc',
-    'openstackdocstheme',
+    # 'openstackdocstheme',
     #'sphinx.ext.intersphinx',
 ]
 
@@ -62,7 +62,8 @@ pygments_style = 'sphinx'
 # html_theme_path = ["."]
 # html_theme = '_theme'
 # html_static_path = ['static']
-html_theme = 'openstackdocs'
+# html_theme = 'openstackdocs'
+html_theme = 'nature'
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = '%sdoc' % project
