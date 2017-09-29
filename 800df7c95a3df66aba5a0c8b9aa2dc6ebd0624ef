@@ -1,0 +1,8 @@
+Code-Review+2: Sean Handley <sean.handley@gmail.com>
+Workflow+1: Sean Handley <sean.handley@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 29 Sep 2017 21:35:26 +0000
+Reviewed-on: https://review.openstack.org/508445
+Project: openstack/publiccloud-wg
+Branch: refs/heads/master
