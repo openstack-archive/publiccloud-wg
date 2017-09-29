@@ -13,6 +13,7 @@ Contents:
    :maxdepth: 2
 
    readme
+   passport_program
 
 Indices and tables
 ==================

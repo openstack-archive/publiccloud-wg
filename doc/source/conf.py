@@ -26,6 +26,10 @@ extensions = [
     #'sphinx.ext.intersphinx',
 ]
 
+# Feed configuration for yasfb
+feed_base_url = 'http://specs.openstack.org/openstack/publiccloud-wg'
+feed_author = 'OpenStack Public Cloud Working Group'
+
 # autodoc generation is a bit aggressive and a nuisance when doing heavy
 # text edit cycles.
 # execute "export SPHINX_DEBUG=1" in your terminal to disable
