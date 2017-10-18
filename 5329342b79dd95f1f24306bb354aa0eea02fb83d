@@ -1,0 +1,11 @@
+Code-Review+2: Tobias Rydberg <tobias@citynetwork.se>
+Workflow+1: Tobias Rydberg <tobias@citynetwork.se>
+Verified-1: Jenkins
+Code-Review+2: Sean Handley <sean.handley@gmail.com>
+Workflow+1: Sean Handley <sean.handley@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 18 Oct 2017 13:55:39 +0000
+Reviewed-on: https://review.openstack.org/511252
+Project: openstack/publiccloud-wg
+Branch: refs/heads/master
