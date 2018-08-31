@@ -1,0 +1,9 @@
+Code-Review+1: Melvin Hillsman <mrhillsman@gmail.com>
+Code-Review+2: Tobias Rydberg <tobias.rydberg@citynetwork.eu>
+Workflow+1: Tobias Rydberg <tobias.rydberg@citynetwork.eu>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 31 Aug 2018 13:17:05 +0000
+Reviewed-on: https://review.openstack.org/598396
+Project: openstack/publiccloud-wg
+Branch: refs/heads/master
